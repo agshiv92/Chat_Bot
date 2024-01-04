@@ -1,0 +1,17 @@
+# Ignore virtual environments
+venv/
+
+# Ignore the .env file
+.env
+
+# Ignore compiled Python files
+*.pyc
+
+# Ignore temporary files
+*~
+
+# Ignore IDE-specific files
+.idea/
+
+# Ignore local configuration files
+.DS_Store
